@@ -1,0 +1,11 @@
+{
+  "name": "z0fbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "author": "Z0F",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
